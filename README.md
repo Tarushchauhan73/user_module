@@ -50,13 +50,11 @@ user_api_project/
 └── README.md
 ```
 ## screenshot 
-<img width="1440" height="900" alt="Screenshot 2026-10-13 at 11 47 30 AM" src="https://github.com/user-attachments/assets/c0ff5094-c095-4842-bc45-32f7c0279467" />
-<img width="1440" height="900" alt="Screenshot 2026-10-13 at 12 03 45 PM" src="https://github.com/user-attachments/assets/9c8781dc-6e74-4b3f-983d-4882090d0e31" />
-<img width="1440" height="900" alt="Screenshot 2026-10-13 at 11 46 55 AM" src="https://github.com/user-attachments/assets/de04aa34-4d85-43b3-9be5-136f58a6f8f4" />
-<img width="1440" height="900" alt="Screenshot 2026-10-13 at 12 14 13 PM" src="https://github.com/user-attachments/assets/afb12b44-ca6c-43c8-8bbf-fbf009a61305" />
-
-
-
+<img width="1236" height="786" alt="Screenshot 2026-10-13 at 11 46 55 AM" src="https://github.com/user-attachments/assets/a44f5053-2b89-49e0-a064-9e4ca1979d98" />
+<img width="1322" height="781" alt="Screenshot 2026-10-13 at 12 14 13 PM" src="https://github.com/user-attachments/assets/ed268c31-2dfa-4dcf-9b7c-87b8ebf8ca6f" />
+<img width="1318" height="771" alt="Screenshot 2026-10-13 at 12 03 45 PM" src="https://github.com/user-attachments/assets/29427c12-6f70-4d37-a0e0-b9484f9e5477" />
+<img width="1261" height="775" alt="Screenshot 2026-10-13 at 11 47 30 AM" src="https://github.com/user-attachments/assets/6fc8daaa-919c-4ccc-8c00-b13ef1ea87a5" />
+<img width="1440" height="784" alt="Screenshot 2026-10-13 at 3 34 07 PM" src="https://github.com/user-attachments/assets/b58952d1-49dc-4392-9043-22ff8b9b9e8a" />
 
 
 ## Installation and Setup
